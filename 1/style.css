@@ -1,0 +1,67 @@
+.schedule > li:first-child{
+    color: pink;
+ }
+ .schedule > li:nth-child(even){
+     color: purple;
+ }
+ .schedule > li:nth-child(3n){
+     color: blue;
+ }
+ .schedule1 > li:first-child{
+    color: green;
+}
+.schedule1 > li:nth-child(2){
+    color: yellow;
+}
+.schedule1 > li:last-child{
+    color: orange;
+}
+.schedule2 > li:first-child{
+    color: red;
+}
+.schedule2 > li:nth-child(even){
+    color: brown;
+}
+.schedule2 > li:nth-child(3n){
+    color: green;
+}
+.schedule3 > li:first-child{
+    color: pink;
+}
+.schedule3 > li:nth-child(2){
+    color: purple;
+}
+.schedule3 > li:last-child{
+    color: blue;
+}
+.schedule4 > li:first-child{
+    color: red;
+}
+.schedule4 > li:nth-child(even){
+    color: yellow;
+}
+.schedule4 > li:nth-child(3n){
+    color: orange;
+}
+.schedule > li:hover{ 
+    background-color: chocolate; 
+     color: white; 
+ }
+.shedule-item > button:hover{
+    background-color: chocolate; 
+    color: white; 
+}
+.shedule1-item > a:link {
+    color: slategray;
+  }
+  .shedule-item > button:disabled{
+background-color: crimson;
+}
+.shedule2-item > a:link:visited{
+    color: rgb(22, 12, 163);
+  }
+.schedule3-item > li:focus{
+    color: blueviolet;
+}
+
+
