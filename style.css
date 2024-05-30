@@ -1,3 +1,6 @@
+:root{
+    --main-color:var(--main-color);
+}
 .text-box h3:first-child{ 
     color:pink 
 } 
